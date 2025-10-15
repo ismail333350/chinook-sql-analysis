@@ -15,4 +15,4 @@ It includes queries on:
 - pgAdmin
 
 ## Author
-Mahmoud Mansor
+Esmail Mahmoud Mansor
