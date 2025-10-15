@@ -1,5 +1,3 @@
-# chinook-sql-analysis
-SQL-based analysis of the Chinook music database using PostgreSQL
 # Chinook Database SQL Analysis
 
 This project analyzes the Chinook music store database using PostgreSQL.
